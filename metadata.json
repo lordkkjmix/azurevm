@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Deployer un VM Linux (Ubuntu) avec 2 cartes dans 2 reseaux",
+  "description": "Ce template permet de creer deux cartes reseaux de vm chacune dans un reseau virtuel",
+  "summary": "Ce template permet de creer deux cartes reseaux de vm chacune dans un reseau virtuel",
+  "githubUsername": "lordkkjmix",
+  "dateUpdated": "2017-03-13"
+}
